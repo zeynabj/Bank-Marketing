@@ -1,0 +1,11 @@
+=== TARGET VARIABLE DISTRIBUTION ===
+
+Counts:
+y
+0    39922
+1     5289
+
+Percentages:
+y
+0    88.3
+1    11.7

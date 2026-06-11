@@ -1,0 +1,141 @@
+=== DESCRIPTIVE STATISTICS — CATEGORICAL COLUMNS ===
+
+=== Describe ===
+                job  marital  education housing   loan   contact  month poutcome
+count         45211    45211      45211   45211  45211     45211  45211    45211
+unique           12        3          4       2      2         3     12        4
+top     blue-collar  married  secondary     yes     no  cellular    may  unknown
+freq           9732    27214      23202   25130  37967     29285  13766    36959
+
+=== VALUE COUNTS: job ===
+job
+blue-collar      9732
+management       9458
+technician       7597
+admin.           5171
+services         4154
+retired          2264
+self-employed    1579
+entrepreneur     1487
+unemployed       1303
+housemaid        1240
+student           938
+unknown           288
+
+--- PERCENT ---
+job
+blue-collar      21.53
+management       20.92
+technician       16.80
+admin.           11.44
+services          9.19
+retired           5.01
+self-employed     3.49
+entrepreneur      3.29
+unemployed        2.88
+housemaid         2.74
+student           2.07
+unknown           0.64
+
+=== VALUE COUNTS: marital ===
+marital
+married     27214
+single      12790
+divorced     5207
+
+--- PERCENT ---
+marital
+married     60.19
+single      28.29
+divorced    11.52
+
+=== VALUE COUNTS: education ===
+education
+secondary    23202
+tertiary     13301
+primary       6851
+unknown       1857
+
+--- PERCENT ---
+education
+secondary    51.32
+tertiary     29.42
+primary      15.15
+unknown       4.11
+
+=== VALUE COUNTS: housing ===
+housing
+yes    25130
+no     20081
+
+--- PERCENT ---
+housing
+yes    55.58
+no     44.42
+
+=== VALUE COUNTS: loan ===
+loan
+no     37967
+yes     7244
+
+--- PERCENT ---
+loan
+no     83.98
+yes    16.02
+
+=== VALUE COUNTS: contact ===
+contact
+cellular     29285
+unknown      13020
+telephone     2906
+
+--- PERCENT ---
+contact
+cellular     64.77
+unknown      28.80
+telephone     6.43
+
+=== VALUE COUNTS: month ===
+month
+may    13766
+jul     6895
+aug     6247
+jun     5341
+nov     3970
+apr     2932
+feb     2649
+jan     1403
+oct      738
+sep      579
+mar      477
+dec      214
+
+--- PERCENT ---
+month
+may    30.45
+jul    15.25
+aug    13.82
+jun    11.81
+nov     8.78
+apr     6.49
+feb     5.86
+jan     3.10
+oct     1.63
+sep     1.28
+mar     1.06
+dec     0.47
+
+=== VALUE COUNTS: poutcome ===
+poutcome
+unknown    36959
+failure     4901
+other       1840
+success     1511
+
+--- PERCENT ---
+poutcome
+unknown    81.75
+failure    10.84
+other       4.07
+success     3.34
+
